@@ -6,6 +6,13 @@ Reimplement [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-in
 
 - **Python**
 - **httpx** for HTTP communication
+- **loguru** for logging
+- **pydantic** for data validation
+- **pydantic-settings** for configuration
+- **pytest** for testing
+- **pytest-cov** for test coverage
+- **ruff** for linting
+- **mypy** for static type checking
 - **[mcp](https://pypi.org/project/mcp/)** for Model Context Protocol
 - **[uv](https://docs.astral.sh/uv/)** for dependency and project management
 
